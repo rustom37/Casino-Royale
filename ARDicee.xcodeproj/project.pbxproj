@@ -12,6 +12,7 @@
 		AA165CB62224457600E60C7E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA165CB52224457600E60C7E /* ViewController.swift */; };
 		AA165CB92224457600E60C7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA165CB72224457600E60C7E /* Main.storyboard */; };
 		AA165CBE2224457700E60C7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA165CBC2224457700E60C7E /* LaunchScreen.storyboard */; };
+		AA165CCB2224999300E60C7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA165CCA2224999300E60C7E /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,7 +23,7 @@
 		AA165CB82224457600E60C7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AA165CBD2224457700E60C7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA165CBF2224457700E60C7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AA165CC52224922A00E60C7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AA165CCA2224999300E60C7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +59,7 @@
 				AA165CB12224457600E60C7E /* AppDelegate.swift */,
 				AA165CB52224457600E60C7E /* ViewController.swift */,
 				AA165CB72224457600E60C7E /* Main.storyboard */,
-				AA165CC52224922A00E60C7E /* Assets.xcassets */,
+				AA165CCA2224999300E60C7E /* Assets.xcassets */,
 				AA165CB32224457600E60C7E /* art.scnassets */,
 				AA165CBC2224457700E60C7E /* LaunchScreen.storyboard */,
 				AA165CBF2224457700E60C7E /* Info.plist */,
@@ -127,6 +128,7 @@
 				AA165CB42224457600E60C7E /* art.scnassets in Resources */,
 				AA165CBE2224457700E60C7E /* LaunchScreen.storyboard in Resources */,
 				AA165CB92224457600E60C7E /* Main.storyboard in Resources */,
+				AA165CCB2224999300E60C7E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
